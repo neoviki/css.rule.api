@@ -1,6 +1,6 @@
 ## Javscript API to create and add CSS property
 
-	With this API we can create and add css conten in pseudo property as well.
+	With this API we can create and add css property. This API works with pseudo selector as well.
 
 ## Source 
 
