@@ -1,4 +1,4 @@
-## API to create and add CSS property using Javascript
+## javscript API to create and add CSS property
 
 	With this API we can create and add css conten in pseudo property as well.
 
@@ -34,9 +34,9 @@
 
 ## Usage
 
-	- include css_rule.js in your html or javascript file
+	# include css_rule.js in your html or javascript file
 
-	- call
+	# call
 	
 		add_css_rule("#box_object1:before", {bottom: "10px"});
 
