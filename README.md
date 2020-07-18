@@ -1,4 +1,4 @@
-## javscript API to create and add CSS property
+## Javscript API to create and add CSS property
 
 	With this API we can create and add css conten in pseudo property as well.
 
